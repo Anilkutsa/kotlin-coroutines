@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoroutinesDemo1</string>
+    <string name="click_here">Click Here</string>
+    <string name="download_user_data">Download User Data</string>
+    <string name="subscriber_s_name">Subscriber\'s Name</string>
+    <string name="subscriber_s_email">Subscriber\'s Email</string>
+    <string name="save">Save</string>
+    <string name="clear_all">Clear All</string>
+    <string name="subscriber_name">Name:</string>
+    <string name="subscriber_email">Email:</string>
+</resources>
